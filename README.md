@@ -1,4 +1,4 @@
-# Software Project Lab (SPL) Management Software
+# Software Project Lab (SPL) Management Software (Server)
 
 Client Repo: [https://github.com/minionsrahat/IIT-Project-Management-System-Fronted](https://github.com/minionsrahat/IIT-Project-Management-System-Fronted)
 
@@ -33,18 +33,6 @@ The Software Project Lab (SPL) Management Software is a web application develope
 - MySQL
 
 
-## Client Side Installation
-
-To get started with this, follow these steps:
-
-
-```
-$ git clone https://github.com/minionsrahat/IIT-Project-Management-System-Fronted
-$ cd project
-$ npm install
-
-```
-
 
 ## Server Side Installation
 
@@ -52,7 +40,7 @@ To get started with this, follow these steps:
 
 
 ```
-$ git clone https://github.com/minionsrahat/IIT-Project-Management-System-Fronted
+$ git clone https://github.com/minionsrahat/IIT-Project-Management-System-Backend.git
 $ cd project
 $ npm install
 
